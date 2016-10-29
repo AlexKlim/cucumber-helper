@@ -1,6 +1,7 @@
 # Cucumber::Helper
 
-TODO: Write a gem description
+Simple wrapper for cucumber gem. After some methods, like click_link, click_button, execute_script, visit -
+page should be checked on errors. Please, add new methods and PRs to the action.rb file.
 
 ## Installation
 
