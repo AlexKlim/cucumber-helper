@@ -18,7 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Use cucumber methods as usual. The wrapper will work automatically.
+Configure error message:
+
+    Cucumber::Helper.configure do |config|
+      config.error_message = nil # default value
+    end
 
 ## Contributing
 
